@@ -1,0 +1,6 @@
+{
+    "variants":
+    {
+        "variant=testing": { "model": "test:ore_end_testing" }
+    }
+}

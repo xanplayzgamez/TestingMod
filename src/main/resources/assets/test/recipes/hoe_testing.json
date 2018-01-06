@@ -1,0 +1,30 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "BB ",
+    " A ",
+    " A "
+  ],
+
+  "key":
+  {
+    "B":
+    {
+      "item": "test:ingot_testing"
+    },
+
+    "A":
+    {
+      "item": "minecraft:stick"
+    }
+  },
+
+  "result":
+  {
+    "item": "test:hoe_testing",
+    "count": 1
+  }
+}

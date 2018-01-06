@@ -1,0 +1,24 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "B B",
+    "BBB",
+    "BBB"
+  ],
+
+  "key":
+  {
+    "B": {
+      "item": "test:ingot_testing"
+    }
+  },
+
+  "result":
+  {
+    "item": "test:chestplate_testing",
+    "count": 1
+  }
+}

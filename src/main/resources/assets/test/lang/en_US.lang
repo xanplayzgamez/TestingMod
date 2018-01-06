@@ -1,0 +1,20 @@
+tile.block_think.name=Think Block
+tile.block_fun.name=Fun Block
+tile.ore_overworld_testing.name=Testing Ore
+tile.ore_end_testing.name=End Testing Ore
+tile.ore_nether_testing.name=Nether Testing Ore
+
+
+itemGroup.testingtab=Testing Tab
+
+
+item.shovel_testing.name=Testing Shovel
+item.axe_testing.name=Testing Axe
+item.hoe_testing.name=Testing Hoe
+item.pickaxe_testing.name=Testing Pickaxe
+item.sword_testing.name=Testing Sword
+item.helmet_testing.name=Testing Helmet
+item.chestplate_testing.name=Testing Chestplate
+item.leggings_testing.name=Testing Leggings
+item.boots_testing.name=Testing Boots
+item.ingot_testing.name=Testing Ingot

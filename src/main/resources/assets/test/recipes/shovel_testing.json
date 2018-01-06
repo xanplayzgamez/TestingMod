@@ -1,0 +1,30 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    " B ",
+    " A ",
+    " A "
+  ],
+
+  "key":
+  {
+    "B":
+    {
+      "item": "test:ingot_testing"
+    },
+
+    "A":
+    {
+      "item": "minecraft:stick"
+    }
+  },
+
+  "result":
+  {
+    "item": "test:shovel_testing",
+    "count": 1
+  }
+}

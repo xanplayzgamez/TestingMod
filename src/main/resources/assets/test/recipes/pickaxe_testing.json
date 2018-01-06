@@ -1,0 +1,30 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "BBB",
+    " A ",
+    " A "
+  ],
+
+  "key":
+  {
+    "B":
+    {
+      "item": "test:ingot_testing"
+    },
+
+    "A":
+    {
+      "item": "minecraft:stick"
+    }
+  },
+
+  "result":
+  {
+    "item": "test:pickaxe_testing",
+    "count": 1
+  }
+}

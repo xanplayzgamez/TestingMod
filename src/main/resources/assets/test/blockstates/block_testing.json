@@ -1,0 +1,6 @@
+{
+  "variants":
+  {
+    "normal": { "model": "test:block_testing" }
+  }
+}
